@@ -1,0 +1,13 @@
+spring:
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      format_sql: true
+    database: mysql
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/delivery_mgmt?createDatabaseIfNotExist=true&autoReconnect=true&useSSL=false
+    username: root
+    password: jiraiya
