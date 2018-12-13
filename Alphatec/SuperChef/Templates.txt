@@ -1,0 +1,15 @@
+https://www.template.net/web-templates/website-templates/angularjs-template/
+
+Template site for new PVSApp:
+http://wrapbootstrap.com/preview/WB0M35410
+https://startangular.com/product/versatile-angularjs-theme/
+https://startangular.com/product/sb-admin-angular-theme/
+
+Template for web restaurant:
+https://colorlib.com/demo?theme=pato
+https://colorlib.com/preview/#redcayenne
+
+TODO: Criar services para buscar o cardapio, facilmente, mockfirst)
+TODO: Banco de dados mysqlexterno no Outsytems (servico direto nele via google cloud).
+TODO: Site angularJS para fazer o pedido.
+TODO: Visualizar o pedido dentro do site do OutSystems
